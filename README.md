@@ -37,7 +37,7 @@ vacuum-cleaning-robot/
 │   │   └── Staubsaugroboter.pptx    # 项目演示PPT
 │   └── papers/
 │       ├── Bachelorarbeit.pdf       # 学士论文
-│       └── Expose.pdf               # 项目说明文档
+│       └── expose.pdf               # 项目说明文档
 └── assets/
     ├── images/                      # 项目图片 (7张)
     ├── videos/                      # 演示视频 (9个)
@@ -52,7 +52,7 @@ vacuum-cleaning-robot/
 
 ### 学术文档
 - **学士论文**: [`docs/papers/Bachelorarbeit.pdf`](docs/papers/Bachelorarbeit.pdf)
-- **项目说明**: [`docs/papers/Expose.pdf`](docs/papers/Expose.pdf)
+- **项目说明**: [`docs/papers/expose.pdf`](docs/papers/expose.pdf)
 
 ### 项目图片
 - **图片资源**: [`assets/images/`](assets/images/)
@@ -60,13 +60,13 @@ vacuum-cleaning-robot/
 
 #### 图片展示
 <div align="center">
-  <img src="assets/images/微信图片_20230705224633.jpg" alt="Robot Design 1" width="300"/>
-  <img src="assets/images/微信图片_20230705224640.jpg" alt="Robot Design 2" width="300"/>
-  <img src="assets/images/微信图片_20230705224644.jpg" alt="Robot Assembly 1" width="300"/>
-  <img src="assets/images/微信图片_20230705224647.jpg" alt="Robot Assembly 2" width="300"/>
-  <img src="assets/images/微信图片_20230705230841.jpg" alt="Testing Scene 1" width="300"/>
-  <img src="assets/images/微信图片_20230705231035.jpg" alt="Testing Scene 2" width="300"/>
-  <img src="assets/images/微信图片_20230705231207.jpg" alt="Final Robot" width="300"/>
+  <img src="assets/images/robot-design-1.jpg" alt="Robot Design 1" width="300"/>
+  <img src="assets/images/robot-design-2.jpg" alt="Robot Design 2" width="300"/>
+  <img src="assets/images/robot-assembly-1.jpg" alt="Robot Assembly 1" width="300"/>
+  <img src="assets/images/robot-assembly-2.jpg" alt="Robot Assembly 2" width="300"/>
+  <img src="assets/images/testing-scene-1.jpg" alt="Testing Scene 1" width="300"/>
+  <img src="assets/images/testing-scene-2.jpg" alt="Testing Scene 2" width="300"/>
+  <img src="assets/images/final-robot.jpg" alt="Final Robot" width="300"/>
 </div>
 
 ### 演示视频
@@ -81,7 +81,7 @@ vacuum-cleaning-robot/
 - [视频5: 传感器测试](assets/videos/d52e898291ee71481d371558fb24f327.mp4)
 - [视频6: 性能测试](assets/videos/f7b5ca9e1396da264e2b6a166f6e515d.mp4)
 - [视频7: 商业模型对比](assets/videos/heros-s7-roborock-s7-all-new-all-rubber-brush.mp4)
-- [视频8: 制作过程](assets/videos/无标题视频——使用Clipchamp制作.mp4)
+- [视频8: 制作过程](assets/videos/making-process.mp4)
 
 ### 动画演示
 - **GIF资源**: [`assets/gifs/`](assets/gifs/)
@@ -89,8 +89,8 @@ vacuum-cleaning-robot/
 
 #### GIF展示
 <div align="center">
-  <img src="assets/gifs/v2-a3ce0f5b0125bc6aa2582964008e90be_b.gif" alt="Robot Workflow 1" width="400"/>
-  <img src="assets/gifs/v2-fbbe9ed840bd31d574c86222a6eddff0_b.gif" alt="Robot Workflow 2" width="400"/>
+  <img src="assets/gifs/robot-workflow-1.gif" alt="Robot Workflow 1" width="400"/>
+  <img src="assets/gifs/robot-workflow-2.gif" alt="Robot Workflow 2" width="400"/>
 </div>
 
 ## 🚀 快速开始
